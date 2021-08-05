@@ -1,4 +1,4 @@
-# DeepLearningTextBook
+![CoreDotText](docs/static/logo.svg)
 
 ## MNIST
 ### DNN (Deep Neural Networks)
