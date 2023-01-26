@@ -44,6 +44,7 @@ Keyword from 5-sentence :
 
 </aside>
 -------
+
 NEWS : https://www.artificialintelligence-news.com/2023/01/20/google-speed-up-ai-releases-in-response-chatgpt/
 
 <aside>
@@ -63,6 +64,7 @@ Keyword from 5-sentence :
 
 </aside>
 -------
+
 NEWS : https://www.artificialintelligence-news.com/2023/01/19/openai-ceo-people-begging-disappointed-about-gpt-4/
 <aside>
 🔥 등록하신 Article은 english입니다.
@@ -81,6 +83,7 @@ Keyword from 5-sentence :
 
 </aside>
 -------
+
 NEWS : https://www.aitimes.com/news/articleView.html?idxno=149078
 <aside>
 🔥 등록하신 Article은 korean입니다.
@@ -98,6 +101,8 @@ Keyword from 5-sentence :
 {'OpenAI', '마이크로소프트', '챗GPT', 'MS', 'AI', '사티아 나델라 MS', '오픈AI'}
 
 </aside>
+-------
+
 NEWS : https://www.aitimes.com/news/articleView.html?idxno=149090
 <aside>
 🔥 등록하신 Article은 korean입니다.
@@ -116,6 +121,7 @@ Keyword from 5-sentence :
 
 </aside>
 -------
+
 NEWS : https://www.aitimes.kr/news/articleView.html?idxno=27195
 <aside>
 🔥 등록하신 Article은 korean입니다.
@@ -134,6 +140,7 @@ Keyword from 5-sentence :
 
 </aside>
 -------
+
 NEWS : https://www.aitimes.com/news/articleView.html?idxno=148979
 <aside>
 🔥 등록하신 Article은 korean입니다.
