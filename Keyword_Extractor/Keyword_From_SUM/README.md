@@ -27,9 +27,9 @@
     [Model from Huggingface](https://huggingface.co/xlm-roberta-large-finetuned-conll03-english)
  ------
  # **RESULT**
-(https://tech.hindustantimes.com/tech/news/dalle-2-to-stable-diffusion-generate-photos-freely-with-these-ai-tools-71674561212855.html)
+NEWS : https://tech.hindustantimes.com/tech/news/dalle-2-to-stable-diffusion-generate-photos-freely-with-these-ai-tools-71674561212855.html
   <aside>
-🔥 등록하신 Article은 english입니다.
+등록하신 Article은 english입니다.
 5-sentence summarization :
 
 DALL-E 2 to Stable Diffusion, generate photos freely with these AI tools
@@ -43,3 +43,17 @@ Keyword from 5-sentence :
 {'OpenAI', 'DALL-E 2', 'GPT3', 'Stable Diffusion', 'Intelligence', 'AI', 'DALL-E'}
 
 </aside>
+
+NEWS : https://www.artificialintelligence-news.com/2023/01/20/google-speed-up-ai-releases-in-response-chatgpt/
+등록하신 Article은 english입니다.
+5-sentence summarization : 
+
+The New York Times claims ChatGPT set off alarm bells at Google
+Google is reportedly set to speed up its release of AI solutions in response to the launch of ChatGPT
+In 2020, leading AI ethics researcher Timnit Gebru was fired by Google
+At the invite of Google CEO Sundar Pichai, the company’s founders – Larry Page and Sergey Brin – returned for a series of meetings to review Google’s AI product strategy
+Gebru claims she was fired over an unpublished paper and sending an email critical of the company’s practices
+
+Keyword from 5-sentence : 
+
+{'ChatGPT', 'Larry Page', 'Timnit Gebru', 'AI', 'Gebru', 'Google', 'Sundar Pichai', 'The New York Times', 'Sergey Brin'}
