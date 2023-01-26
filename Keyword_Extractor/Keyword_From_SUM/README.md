@@ -43,6 +43,8 @@ Keyword from 5-sentence :
 {'OpenAI', 'DALL-E 2', 'GPT3', 'Stable Diffusion', 'Intelligence', 'AI', 'DALL-E'}
 
 </aside>
+
+
 *** 
 
 NEWS : https://www.artificialintelligence-news.com/2023/01/20/google-speed-up-ai-releases-in-response-chatgpt/
@@ -63,6 +65,8 @@ Keyword from 5-sentence :
 {'ChatGPT', 'Larry Page', 'Timnit Gebru', 'AI', 'Gebru', 'Google', 'Sundar Pichai', 'The New York Times', 'Sergey Brin'}
 
 </aside>
+
+
 ---
 
 NEWS : https://www.artificialintelligence-news.com/2023/01/19/openai-ceo-people-begging-disappointed-about-gpt-4/
@@ -82,6 +86,8 @@ Keyword from 5-sentence :
 {'OpenAI', 'Sam Altman', 'GPT-3', 'ChatGPT', 'GPT-3.5', 'GPT'}
 
 </aside>
+
+
 ---
 
 NEWS : https://www.aitimes.com/news/articleView.html?idxno=149078
@@ -101,6 +107,8 @@ Keyword from 5-sentence :
 {'OpenAI', '마이크로소프트', '챗GPT', 'MS', 'AI', '사티아 나델라 MS', '오픈AI'}
 
 </aside>
+
+
 ---
 
 NEWS : https://www.aitimes.com/news/articleView.html?idxno=149090
@@ -120,6 +128,8 @@ Keyword from 5-sentence :
 {'챗GPT', '뉴스가드는 챗GPT', '미국', 'GPT'}
 
 </aside>
+
+
 ---
 
 NEWS : https://www.aitimes.kr/news/articleView.html?idxno=27195
@@ -139,6 +149,8 @@ Keyword from 5-sentence :
 {'챗GPT', '유영상', '에이닷', 'ChatGPT', 'MBTI', 'AI', 'SK텔레콤', '한국어 GPT-3'}
 
 </aside>
+
+
 ---
 
 NEWS : https://www.aitimes.com/news/articleView.html?idxno=148979
