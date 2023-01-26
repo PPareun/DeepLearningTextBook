@@ -25,4 +25,21 @@
         87.6%
   + NER
     [Model from Huggingface](https://huggingface.co/xlm-roberta-large-finetuned-conll03-english)
-    
+ ------
+ # **RESULT**
+ [Article](https://tech.hindustantimes.com/tech/news/dalle-2-to-stable-diffusion-generate-photos-freely-with-these-ai-tools-71674561212855.html)
+  <aside>
+🔥 등록하신 Article은 english입니다.
+5-sentence summarization :
+
+DALL-E 2 to Stable Diffusion, generate photos freely with these AI tools
+One of the most rapidly growing fields that has the potential to revolutionize the way we live and work is Artificial Intelligence (AI)
+It was revealed by OpenAI on January 21 and uses a modified version of GPT3 to generate realistic-looking images
+There's an AI which can help you make realistic AI photos in just seconds! Called DALL-E, it is a deep-learning model developed by OpenAI to generate digital images with language descriptions
+And it's not just DALL-E that can help users create digital art pieces using AI
+
+Keyword from 5-sentence :
+
+{'OpenAI', 'DALL-E 2', 'GPT3', 'Stable Diffusion', 'Intelligence', 'AI', 'DALL-E'}
+
+</aside>
