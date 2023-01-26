@@ -27,7 +27,7 @@
     [Model from Huggingface](https://huggingface.co/xlm-roberta-large-finetuned-conll03-english)
  ------
  # **RESULT**
- [Article](https://tech.hindustantimes.com/tech/news/dalle-2-to-stable-diffusion-generate-photos-freely-with-these-ai-tools-71674561212855.html)
+(https://tech.hindustantimes.com/tech/news/dalle-2-to-stable-diffusion-generate-photos-freely-with-these-ai-tools-71674561212855.html)
   <aside>
 🔥 등록하신 Article은 english입니다.
 5-sentence summarization :
