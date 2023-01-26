@@ -8,7 +8,7 @@
   
   This makes sense due to most relevent sentences stand for the text and the word from NER, which is Noun stand for the sentences.  
   
--------
+------- 
 # **MODEL**
   + BERTSUM![image](https://user-images.githubusercontent.com/68415111/214734663-231274cd-7a0e-4f4b-9e3f-b79c8fb25a89.png)
     + BERTSUM_KOR
@@ -25,7 +25,7 @@
         87.6%
   + NER
     [Model from Huggingface](https://huggingface.co/xlm-roberta-large-finetuned-conll03-english)
- ------
+ ------ 
  # **RESULT**
 NEWS : https://tech.hindustantimes.com/tech/news/dalle-2-to-stable-diffusion-generate-photos-freely-with-these-ai-tools-71674561212855.html
   <aside>
@@ -101,7 +101,7 @@ Keyword from 5-sentence :
 {'OpenAI', '마이크로소프트', '챗GPT', 'MS', 'AI', '사티아 나델라 MS', '오픈AI'}
 
 </aside>
--------
+------- 
 
 NEWS : https://www.aitimes.com/news/articleView.html?idxno=149090
 <aside>
