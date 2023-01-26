@@ -1,8 +1,11 @@
 # **Keyword_Extract_From_BERTSUM**
 # **PURPOSE**
   This project aims to produce Keyword from user input text.  
+  
   Even though there are many keyword extract algorithms, they only pay attention at **word** like TF-IDF, word-cooccurence, word frequences not the context.  
+  
   In this project, we extract n-sigificant sentences that are most related to text, and then from the sentences we'll extract keyword from NER.  
+  
   This makes sense due to most relevent sentences stand for the text and the word from NER, which is Noun stand for the sentences.  
 ---
 # **MODEL**
