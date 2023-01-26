@@ -43,13 +43,14 @@ Keyword from 5-sentence :
 {'OpenAI', 'DALL-E 2', 'GPT3', 'Stable Diffusion', 'Intelligence', 'AI', 'DALL-E'}
 
 </aside>
-
+-------
 NEWS : https://www.artificialintelligence-news.com/2023/01/20/google-speed-up-ai-releases-in-response-chatgpt/
 
 <aside>
 🔥 등록하신 Article은 english입니다.
-5-sentence summarization : 
 
+5-sentence summarization : 
+  
 The New York Times claims ChatGPT set off alarm bells at Google
 Google is reportedly set to speed up its release of AI solutions in response to the launch of ChatGPT
 In 2020, leading AI ethics researcher Timnit Gebru was fired by Google
@@ -61,10 +62,11 @@ Keyword from 5-sentence :
 {'ChatGPT', 'Larry Page', 'Timnit Gebru', 'AI', 'Gebru', 'Google', 'Sundar Pichai', 'The New York Times', 'Sergey Brin'}
 
 </aside>
-
+-------
 NEWS : https://www.artificialintelligence-news.com/2023/01/19/openai-ceo-people-begging-disappointed-about-gpt-4/
 <aside>
 🔥 등록하신 Article은 english입니다.
+  
 5-sentence summarization : 
 
 An improved version, GPT-3.5, powers the ChatGPT chatbot
@@ -78,9 +80,11 @@ Keyword from 5-sentence :
 {'OpenAI', 'Sam Altman', 'GPT-3', 'ChatGPT', 'GPT-3.5', 'GPT'}
 
 </aside>
+-------
 NEWS : https://www.aitimes.com/news/articleView.html?idxno=149078
 <aside>
 🔥 등록하신 Article은 korean입니다.
+  
 5-sentence summarization : 
 
 마이크로소프트(MS)가 '챗GPT'를 개발한 오픈AI와의 파트너십을 공식 발표했다
@@ -97,6 +101,7 @@ Keyword from 5-sentence :
 NEWS : https://www.aitimes.com/news/articleView.html?idxno=149090
 <aside>
 🔥 등록하신 Article은 korean입니다.
+  
 5-sentence summarization : 
 
 미국 미디어정보회사인 뉴스가드는 챗GPT에 2021년까지 웹에 게재된 잘못된 정보 1131개 가운데 100개와 관련한 글을 쓰도록 지시한 결과 이미 허위로 판명된 정보 가운데 80건에 대해 사실인 것처럼 거짓 주장을 생성했다는 실험 결과가 나왔다고 24일(현지시간) 발표했다
@@ -110,9 +115,11 @@ Keyword from 5-sentence :
 {'챗GPT', '뉴스가드는 챗GPT', '미국', 'GPT'}
 
 </aside>
+-------
 NEWS : https://www.aitimes.kr/news/articleView.html?idxno=27195
 <aside>
 🔥 등록하신 Article은 korean입니다.
+  
 5-sentence summarization : 
 
 SK텔레콤(대표 유영상)이 2월 중 성장형 AI 서비스 ‘에이닷’에 오래된 정보를 기억해 대화에 활용할 수 있는 ‘장기기억’ 기술과 사진, 텍스트 등 복합적인 정보를 함께 이해할 수 있는 멀티모달(Multi-modal) 서비스를 장착해 본격적인 서비스 고도화에 나선다고 24일 밝혔다
@@ -126,9 +133,11 @@ Keyword from 5-sentence :
 {'챗GPT', '유영상', '에이닷', 'ChatGPT', 'MBTI', 'AI', 'SK텔레콤', '한국어 GPT-3'}
 
 </aside>
+-------
 NEWS : https://www.aitimes.com/news/articleView.html?idxno=148979
 <aside>
 🔥 등록하신 Article은 korean입니다.
+  
 5-sentence summarization : 
 
 구글이 '달리(DALL-E)'나 '이마젠(Imagen)'보다 훨씬 빠른 속도로 고품질 이미지를 생성할 수 있는 새로운 텍스트 이미지 인공지능(AI) 모델 ‘뮤즈(Muse)’를 공개했다고 벤처비트가 13일(현지시간) 보도했다
