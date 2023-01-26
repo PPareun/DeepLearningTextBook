@@ -43,7 +43,7 @@ Keyword from 5-sentence :
 {'OpenAI', 'DALL-E 2', 'GPT3', 'Stable Diffusion', 'Intelligence', 'AI', 'DALL-E'}
 
 </aside>
--------
+---
 
 NEWS : https://www.artificialintelligence-news.com/2023/01/20/google-speed-up-ai-releases-in-response-chatgpt/
 
